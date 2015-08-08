@@ -13,10 +13,13 @@ infomail.co
 
 # .com
 bonuskuningas.com
+cccampaigns.com
+ccemails.com
 dybogranel.com
 eforbruger.com
 eubarometer.com
 facebook-josefiina.com
+fn4m.com
 forbrukerhuset.com
 iao.com
 kilpailutarjous.com
@@ -28,11 +31,13 @@ markkinointisuora.com
 markkinointitarjous.com
 nordic-offers.com
 nordicdiscount.com
+onetime-ev.com
 outserv01.com
 outserv1.com
 outserv9.com
 outserv10.com
 peachy-piglet-treasures.com
+peptosoft.com
 pointworld.com
 rmcelectrique.com
 saastoliekki.com
@@ -41,6 +46,7 @@ tarjousuutiskirje.com
 tarjouksetnyt.com
 tarjousviesti.com
 tcngroup.com
+tnsglobal.com
 todaysoffersforyou.com
 tracking-concept3.com
 vainsinulle.com
@@ -64,7 +70,11 @@ bright-deal.info
 brightmail.info
 dailybonus.info
 dealreal.info
+dream-factory.info
 etukirje.info
+kuluttajaopas.info
+mailhjelpen.info
+norgesparer.info
 ostoopas.info
 parastarjous.info
 pohjoismaalainenvaluuttaopas.info
@@ -78,12 +88,15 @@ soniajain.me
 # .net
 kbtelecom.net
 kovrov.net
+lainatverkossa.net
 loveoffers.net
+mediaads.net
 onlineopas.net
 outbound01.net
 outbound02.net
 pohjoismaalainenvaluuttaopas.net
 touchnetindia.net
+voitaisosti.net
 
 # .org
 parastarjous.org
