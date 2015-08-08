@@ -14,10 +14,15 @@ infomail.co
 # .com
 bonuskuningas.com
 dybogranel.com
+eforbruger.com
+eubarometer.com
 facebook-josefiina.com
 iao.com
+kontaktimaili.com
 mailer-sub.com
+markkinakanava.com
 nordic-offers.com
+nordicdiscount.com
 outserv01.com
 outserv1.com
 outserv9.com
@@ -27,6 +32,8 @@ pointworld.com
 saastoliekki.com
 tarjouksetnyt.com
 tarjousviesti.com
+tcngroup.com
+tracking-concept3.com
 vainsinulle.com
 
 # .eu
@@ -44,6 +51,7 @@ paivola.fi
 talousbarometri.fi
 
 # .info
+bright-deal.info
 brightmail.info
 dailybonus.info
 dealreal.info
@@ -59,6 +67,7 @@ cgates.lt
 soniajain.me
 
 # .net
+kbtelecom.net
 kovrov.net
 loveoffers.net
 onlineopas.net
