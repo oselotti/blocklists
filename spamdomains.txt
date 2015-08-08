@@ -42,8 +42,8 @@ pointworld.com
 rmcelectrique.com
 saastoliekki.com
 suorakampanja.com
-tarjousuutiskirje.com
 tarjouksetnyt.com
+tarjousuutiskirje.com
 tarjousviesti.com
 tcngroup.com
 tnsglobal.com
@@ -54,8 +54,8 @@ vainsinulle.com
 # .eu
 brunbord.eu
 dotejumi.eu
-dotemudas.eu
 dotemiem.eu
+dotemudas.eu
 promotieshuis.eu
 seicagare.eu
 seigrullo.eu
