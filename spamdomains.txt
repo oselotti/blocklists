@@ -1,7 +1,18 @@
 # Spam domains
 
+# .br
+7con.com.br
+gtctelecom.com.br
+
+# .by
+tvr.by
+
+# .co
+infomail.co
+
 # .com
 facebook-josefiina.com
+mailer-sub.com
 nordic-offers.com
 outserv01.com
 outserv1.com
@@ -15,23 +26,36 @@ tarjousviesti.com
 vainsinulle.com
 
 # .eu
+brunbord.eu
 dotejumi.eu
 dotemudas.eu
+dotemiem.eu
 promotieshuis.eu
+seicagare.eu
+seigrullo.eu
 seipalle.eu
 
 # .fi
 paivola.fi
 
 # .info
+brightmail.info
+dailybonus.info
+etukirje.info
 parastarjous.info
 
 # .it
 cgates.lt
 
 # .net
+kovrov.net
+netsulmultiplay.com.br
 outbound01.net
 outbound02.net
+pohjoismaalainenvaluuttaopas.net
 
 # .ru
 sultan-pets.ru
+
+# .se
+lansourcing.se
