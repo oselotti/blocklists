@@ -3,6 +3,7 @@
 # .br
 7con.com.br
 gtctelecom.com.br
+netsulmultiplay.com.br
 
 # .by
 tvr.by
@@ -12,7 +13,9 @@ infomail.co
 
 # .com
 bonuskuningas.com
+dybogranel.com
 facebook-josefiina.com
+iao.com
 mailer-sub.com
 nordic-offers.com
 outserv01.com
@@ -38,10 +41,12 @@ seipalle.eu
 
 # .fi
 paivola.fi
+talousbarometri.fi
 
 # .info
 brightmail.info
 dailybonus.info
+dealreal.info
 etukirje.info
 ostoopas.info
 parastarjous.info
@@ -55,10 +60,15 @@ soniajain.me
 
 # .net
 kovrov.net
-netsulmultiplay.com.br
+loveoffers.net
+onlineopas.net
 outbound01.net
 outbound02.net
 pohjoismaalainenvaluuttaopas.net
+touchnetindia.net
+
+# .org
+parastarjous.org
 
 # .ru
 sultan-pets.ru
