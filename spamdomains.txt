@@ -17,10 +17,15 @@ dybogranel.com
 eforbruger.com
 eubarometer.com
 facebook-josefiina.com
+forbrukerhuset.com
 iao.com
+kilpailutarjous.com
 kontaktimaili.com
+kulutus-posti.com
 mailer-sub.com
 markkinakanava.com
+markkinointisuora.com
+markkinointitarjous.com
 nordic-offers.com
 nordicdiscount.com
 outserv01.com
@@ -29,10 +34,14 @@ outserv9.com
 outserv10.com
 peachy-piglet-treasures.com
 pointworld.com
+rmcelectrique.com
 saastoliekki.com
+suorakampanja.com
+tarjousuutiskirje.com
 tarjouksetnyt.com
 tarjousviesti.com
 tcngroup.com
+todaysoffersforyou.com
 tracking-concept3.com
 vainsinulle.com
 
@@ -83,6 +92,7 @@ parastarjous.org
 sultan-pets.ru
 
 # .se
+konsument-erbjudande.se
 lansourcing.se
 
 # .ua
