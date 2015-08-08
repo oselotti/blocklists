@@ -1,4 +1,4 @@
-# Malwaredomains
+# Spam domains
 
 # .com
 facebook-josefiina.com
