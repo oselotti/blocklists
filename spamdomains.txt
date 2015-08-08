@@ -20,6 +20,12 @@ dotemudas.eu
 promotieshuis.eu
 seipalle.eu
 
+# .fi
+paivola.fi
+
+# .info
+parastarjous.info
+
 # .it
 cgates.lt
 
