@@ -11,6 +11,7 @@ tvr.by
 infomail.co
 
 # .com
+bonuskuningas.com
 facebook-josefiina.com
 mailer-sub.com
 nordic-offers.com
@@ -42,10 +43,15 @@ paivola.fi
 brightmail.info
 dailybonus.info
 etukirje.info
+ostoopas.info
 parastarjous.info
+pohjoismaalainenvaluuttaopas.info
 
 # .it
 cgates.lt
+
+# .me
+soniajain.me
 
 # .net
 kovrov.net
@@ -59,3 +65,6 @@ sultan-pets.ru
 
 # .se
 lansourcing.se
+
+# .ua
+odessa.ua
